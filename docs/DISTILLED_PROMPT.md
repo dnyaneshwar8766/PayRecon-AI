@@ -1,0 +1,3 @@
+# Distilled prompt — PayRecon AI
+
+Build a full-stack, auditable payment reconciliation platform that compares payment-platform transaction records with bank settlement records. The system must generate reproducible sample data and detect: (1) next-month settlements, (2) rounding differences, (3) duplicate entries, and (4) refunds with no matching original transaction. Use a React/TypeScript dashboard and Python FastAPI backend. Reconciliation must be deterministic, explainable, tested and based on explicit assumptions. Include CSV upload, validation, transaction-level results, discrepancy summaries, report export, automated tests, setup instructions and production limitations. Do not fabricate test results, AI conversations or deployment claims.
